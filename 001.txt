@@ -1,0 +1,2 @@
+https://github.com/yuanxiawan/cfipv4db/raw/refs/heads/main/cfip4.txt@proxyip.amclubs.camdvr.org
+https://github.com/laityts/cfst/raw/refs/heads/main/speed/ip.txt@proxyip.amclubs.camdvr.org
